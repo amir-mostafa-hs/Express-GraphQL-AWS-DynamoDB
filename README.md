@@ -1,1 +1,0 @@
-# Express-GraphQL-AWS-DynamoDB
