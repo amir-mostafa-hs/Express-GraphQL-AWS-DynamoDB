@@ -1,0 +1,688 @@
+{
+  "organizations": [
+    {
+      "uId": "123dka4",
+      "isOrganization": false,
+      "organization": "",
+      "organizationId": "12334",
+      "organizationLibrary": [
+        {
+          "id": "14785002",
+          "shareId": "99",
+          "assignmentId": "333",
+          "title": "",
+          "type": "homework",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        },
+        {
+          "id": "147888002",
+          "shareId": "99999",
+          "assignmentId": "333",
+          "title": "",
+          "type": "quiz",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        },
+        {
+          "id": "147455002",
+          "shareId": "9999999999",
+          "assignmentId": "333",
+          "title": "",
+          "type": "asset",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        }
+      ],
+      "organizationClassrooms": [
+        {
+          "classroomName": "classA",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "defaultRoles": [
+            {
+              "roleDesc": "teacher",
+              "access": {
+                "addHomework": true,
+                "removeHomework": true,
+                "editHomework": true,
+                "remindHomework": true,
+                "resubmitReqHomework": true,
+                "extendTime": true,
+                "changeDeadline": true,
+                "toGrade": true,
+                "changeGrade": true,
+                "addComment": true,
+                "removecomment": true,
+                "addTeacher": false,
+                "removeTeacher": false,
+                "addCoteacher": false,
+                "removeCoteacher": false,
+                "addStudent": true,
+                "removeStudent": true,
+                "sendGroupMessage": true,
+                "sendPrivateMessage": true
+              }
+            },
+            {
+              "roleDesc": "student",
+              "access": {
+                "addHomework": true,
+                "removeHomework": true,
+                "editHomework": true,
+                "remindHomework": true,
+                "resubmitReqHomework": true,
+                "extendTime": true,
+                "changeDeadline": true,
+                "toGrade": true,
+                "changeGrade": true,
+                "addComment": true,
+                "removecomment": true,
+                "addTeacher": false,
+                "removeTeacher": false,
+                "addCoteacher": false,
+                "removeCoteacher": false,
+                "addStudent": true,
+                "removeStudent": true,
+                "sendGroupMessage": true,
+                "sendPrivateMessage": true
+              }
+            }
+          ],
+          "classroomLibrary": [
+            {
+              "id": "14785002",
+              "shareId": "99",
+              "assignmentId": "333",
+              "title": "",
+              "type": "homework",
+              "desc": "",
+              "dueDate": true,
+              "totalGrade": 100,
+              "grade": 80,
+              "resubmission": true,
+              "author": "",
+              "timeStamp": 1576840680000
+            }
+          ],
+          "classroomCalendars": [
+            {
+              "id": "985557",
+              "eventDate": "2022/1/1",
+              "events": [
+                {
+                  "title": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "organizationCalendars": [
+        {
+          "id": "447555",
+          "eventDate": "2022/1/1",
+          "events": []
+        }
+      ]
+    },
+    {
+      "uId": "123dka4",
+      "isOrganization": false,
+      "organization": "",
+      "organizationId": "12334",
+      "organizationLibrary": [
+        {
+          "id": "14785002",
+          "shareId": "99",
+          "assignmentId": "333",
+          "title": "",
+          "type": "homework",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        },
+        {
+          "id": "147888002",
+          "shareId": "99999",
+          "assignmentId": "333",
+          "title": "",
+          "type": "quiz",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        },
+        {
+          "id": "147455002",
+          "shareId": "9999999999",
+          "assignmentId": "333",
+          "title": "",
+          "type": "asset",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        }
+      ],
+      "organizationClassrooms": [
+        {
+          "classroomName": "classA",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "defaultRoles": [
+            {
+              "roleDesc": "teacher",
+              "access": {
+                "addHomework": true,
+                "removeHomework": true,
+                "editHomework": true,
+                "remindHomework": true,
+                "resubmitReqHomework": true,
+                "extendTime": true,
+                "changeDeadline": true,
+                "toGrade": true,
+                "changeGrade": true,
+                "addComment": true,
+                "removecomment": true,
+                "addTeacher": false,
+                "removeTeacher": false,
+                "addCoteacher": false,
+                "removeCoteacher": false,
+                "addStudent": true,
+                "removeStudent": true,
+                "sendGroupMessage": true,
+                "sendPrivateMessage": true
+              }
+            },
+            {
+              "roleDesc": "student",
+              "access": {
+                "addHomework": true,
+                "removeHomework": true,
+                "editHomework": true,
+                "remindHomework": true,
+                "resubmitReqHomework": true,
+                "extendTime": true,
+                "changeDeadline": true,
+                "toGrade": true,
+                "changeGrade": true,
+                "addComment": true,
+                "removecomment": true,
+                "addTeacher": false,
+                "removeTeacher": false,
+                "addCoteacher": false,
+                "removeCoteacher": false,
+                "addStudent": true,
+                "removeStudent": true,
+                "sendGroupMessage": true,
+                "sendPrivateMessage": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "classrooms": [
+    {
+      "extendsFromOrganization": true,
+      "organizationId": "15446",
+      "organizationName": "hasem"
+    },
+    {
+      "extendsFromOrganization": false,
+      "classroomName": "classA",
+      "classroomId": "12459876",
+      "classroomType": "adultEdu",
+      "classroomCode": "ag4er",
+      "classroomDesc": "",
+      "defaultRoles": [
+        {
+          "roleDesc": "teacher",
+          "access": {
+            "addHomework": true,
+            "removeHomework": true,
+            "editHomework": true,
+            "remindHomework": true,
+            "resubmitReqHomework": true,
+            "extendTime": true,
+            "changeDeadline": true,
+            "toGrade": true,
+            "changeGrade": true,
+            "addComment": true,
+            "removecomment": true,
+            "addTeacher": false,
+            "removeTeacher": false,
+            "addCoteacher": false,
+            "removeCoteacher": false,
+            "addStudent": true,
+            "removeStudent": true,
+            "sendGroupMessage": true,
+            "sendPrivateMessage": true
+          }
+        },
+        {
+          "roleDesc": "student",
+          "access": {
+            "addHomework": true,
+            "removeHomework": true,
+            "editHomework": true,
+            "remindHomework": true,
+            "resubmitReqHomework": true,
+            "extendTime": true,
+            "changeDeadline": true,
+            "toGrade": true,
+            "changeGrade": true,
+            "addComment": true,
+            "removecomment": true,
+            "addTeacher": false,
+            "removeTeacher": false,
+            "addCoteacher": false,
+            "removeCoteacher": false,
+            "addStudent": true,
+            "removeStudent": true,
+            "sendGroupMessage": true,
+            "sendPrivateMessage": true
+          }
+        }
+      ],
+      "classroomLibrary": [
+        {
+          "id": "14785002",
+          "shareId": "99",
+          "assignmentId": "333",
+          "title": "",
+          "type": "homework",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "id": "147852",
+      "personalShareId": "",
+      "memberships": [
+        {
+          "organizationId": "12334"
+        },
+        {
+          "organizationId": "12335"
+        }
+      ],
+      "profile": {
+        "username": "Jasem999",
+        "firstName": "Jasem",
+        "lastName": "Jasem zadeh",
+        "email": "",
+        "timeStamp": 1576840680000
+      },
+      "classrooms": [
+        {
+          "classroomName": "classA",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "role": {
+            "roleDesc": "teacher",
+            "access": {
+              "addHomework": true,
+              "removeHomework": true,
+              "editHomework": true,
+              "remindHomework": true,
+              "resubmitReqHomework": true,
+              "extendTime": true,
+              "changeDeadline": true,
+              "toGrade": true,
+              "changeGrade": true,
+              "addComment": true,
+              "removecomment": true,
+              "addTeacher": false,
+              "removeTeacher": false,
+              "addCoteacher": false,
+              "removeCoteacher": false,
+              "addStudent": true,
+              "removeStudent": true,
+              "sendGroupMessage": true,
+              "sendPrivateMessage": true
+            }
+          },
+          "assignments": [
+            {
+              "assignmentId": "333",
+              "grade": "",
+              "overDue": false,
+              "teacherComment": "",
+              "studentComment": ""
+            }
+          ]
+        },
+        {
+          "classroomName": "classB",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "role": {
+            "roleDesc": "student",
+            "access": {
+              "addHomework": false,
+              "removeHomework": false,
+              "editHomework": false,
+              "remindHomework": false,
+              "resubmitReqHomework": false,
+              "extendTime": false,
+              "changeDeadline": false,
+              "toGrade": false,
+              "changeGrade": false,
+              "addComment": false,
+              "removecomment": false,
+              "addTeacher": false,
+              "removeTeacher": false,
+              "addCoteacher": false,
+              "removeCoteacher": false,
+              "addStudent": false,
+              "removeStudent": false,
+              "sendGroupMessage": false,
+              "sendPrivateMessage": false
+            }
+          },
+          "assignments": [
+            {
+              "assignmentId": "333",
+              "grade": "",
+              "overDue": false,
+              "teacherComment": "",
+              "studentComment": ""
+            }
+          ]
+        }
+      ],
+      "personalLibrary": [
+        {
+          "id": "14785002",
+          "shareId": "99",
+          "assignmentId": "333",
+          "title": "",
+          "type": "homework",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        }
+      ],
+      "settings": {
+        "notifications": "on",
+        "darkMode": true,
+        "emailNotification": ""
+      }
+    },
+    {
+      "id": "147852",
+      "personalShareId": "",
+      "profile": {
+        "username": "Jasem999",
+        "firstName": "Jasem",
+        "lastName": "Jasem zadeh",
+        "email": "",
+        "timeStamp": 1576840680000
+      },
+      "classrooms": [
+        {
+          "classroomName": "classA",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "role": {
+            "roleDesc": "teacher",
+            "access": {
+              "addHomework": true,
+              "removeHomework": true,
+              "editHomework": true,
+              "remindHomework": true,
+              "resubmitReqHomework": true,
+              "extendTime": true,
+              "changeDeadline": true,
+              "toGrade": true,
+              "changeGrade": true,
+              "addComment": true,
+              "removecomment": true,
+              "addTeacher": false,
+              "removeTeacher": false,
+              "addCoteacher": false,
+              "removeCoteacher": false,
+              "addStudent": true,
+              "removeStudent": true,
+              "sendGroupMessage": true,
+              "sendPrivateMessage": true
+            }
+          },
+          "assignments": [
+            {
+              "assignmentId": "333",
+              "grade": "",
+              "overDue": false,
+              "teacherComment": "",
+              "studentComment": ""
+            }
+          ]
+        },
+        {
+          "classroomName": "classB",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "role": {
+            "roleDesc": "student",
+            "access": {
+              "addHomework": false,
+              "removeHomework": false,
+              "editHomework": false,
+              "remindHomework": false,
+              "resubmitReqHomework": false,
+              "extendTime": false,
+              "changeDeadline": false,
+              "toGrade": false,
+              "changeGrade": false,
+              "addComment": false,
+              "removecomment": false,
+              "addTeacher": false,
+              "removeTeacher": false,
+              "addCoteacher": false,
+              "removeCoteacher": false,
+              "addStudent": false,
+              "removeStudent": false,
+              "sendGroupMessage": false,
+              "sendPrivateMessage": false
+            }
+          },
+          "assignments": [
+            {
+              "assignmentId": "333",
+              "grade": "",
+              "overDue": false,
+              "teacherComment": "",
+              "studentComment": ""
+            }
+          ]
+        }
+      ],
+      "personalLibrary": [
+        {
+          "id": "14785002",
+          "shareId": "99",
+          "assignmentId": "333",
+          "title": "",
+          "type": "homework",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        }
+      ],
+      "settings": {
+        "notifications": "on",
+        "darkMode": true,
+        "emailNotification": ""
+      }
+    },
+    {
+      "id": "147852",
+      "personalShareId": "",
+      "profile": {
+        "username": "Jasem999",
+        "firstName": "Jasem",
+        "lastName": "Jasem zadeh",
+        "email": "",
+        "timeStamp": 1576840680000
+      },
+      "classrooms": [
+        {
+          "classroomName": "classA",
+          "classroomId": "12459876",
+          "defaultRoleName": false,
+          "unSpecifiedRole": {
+            "roleDesc": "pourya",
+            "access": {
+              "addHomework": true,
+              "removeHomework": true,
+              "editHomework": true,
+              "remindHomework": true,
+              "resubmitReqHomework": true,
+              "extendTime": true,
+              "changeDeadline": true,
+              "toGrade": true,
+              "changeGrade": true,
+              "addComment": true,
+              "removecomment": true,
+              "addTeacher": false,
+              "removeTeacher": false,
+              "addCoteacher": false,
+              "removeCoteacher": false,
+              "addStudent": true,
+              "removeStudent": true,
+              "sendGroupMessage": true,
+              "sendPrivateMessage": true
+            }
+          },
+          "assignments": [
+            {
+              "assignmentId": "333",
+              "grade": "",
+              "overDue": false,
+              "teacherComment": "",
+              "studentComment": ""
+            }
+          ]
+        },
+        {
+          "classroomName": "classB",
+          "classroomId": "12459876",
+          "classroomType": "adultEdu",
+          "classroomCode": "ag4er",
+          "classroomDesc": "",
+          "role": {
+            "roleDesc": "student",
+            "access": {
+              "addHomework": false,
+              "removeHomework": false,
+              "editHomework": false,
+              "remindHomework": false,
+              "resubmitReqHomework": false,
+              "extendTime": false,
+              "changeDeadline": false,
+              "toGrade": false,
+              "changeGrade": false,
+              "addComment": false,
+              "removecomment": false,
+              "addTeacher": false,
+              "removeTeacher": false,
+              "addCoteacher": false,
+              "removeCoteacher": false,
+              "addStudent": false,
+              "removeStudent": false,
+              "sendGroupMessage": false,
+              "sendPrivateMessage": false
+            }
+          },
+          "assignments": [
+            {
+              "assignmentId": "333",
+              "grade": "",
+              "overDue": false,
+              "teacherComment": "",
+              "studentComment": ""
+            }
+          ]
+        }
+      ],
+      "personalLibrary": [
+        {
+          "id": "14785002",
+          "shareId": "99",
+          "assignmentId": "333",
+          "title": "",
+          "type": "homework",
+          "desc": "",
+          "dueDate": true,
+          "totalGrade": 100,
+          "grade": 80,
+          "resubmission": true,
+          "author": "",
+          "timeStamp": 1576840680000
+        }
+      ],
+      "settings": {
+        "notifications": "on",
+        "darkMode": true,
+        "emailNotification": ""
+      }
+    }
+  ],
+  "calendars": []
+}
