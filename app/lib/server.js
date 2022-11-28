@@ -58,12 +58,13 @@ const http = require("http");
 const cors = require("cors");
 const typeDefs = require("../schema/blogSchema");
 const resolvers = require("../graphql/resolvers/blogResolvers");
+const schema = require("../schema/schema");
 
 (async () => {
   const app = express();
   const httpServer = http.createServer(app);
   const server = new ApolloServer({
-    typeDefs,
+    schema,
     resolvers,
     plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
   });
